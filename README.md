@@ -1,4 +1,4 @@
-![](coverwallpaper.png)
+![](./Resources/coverwallpaper.png)
 # 3939 Code Resources
 
 > The perfect place for when you have no idea why the robot is being dumb
