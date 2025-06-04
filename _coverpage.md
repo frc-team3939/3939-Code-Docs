@@ -1,4 +1,4 @@
-![logo](./Resources/coverlogo.png)
+![logo](./resources/coverlogo.png)
 
 # 3939 Code Resources
 
@@ -6,4 +6,4 @@
 
 <!-- background image -->
 
-![](./Resources/coverwallpaper.png)
+![](./resources/coverwallpaper.png)
