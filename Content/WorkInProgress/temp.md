@@ -1,1 +1,1 @@
-![](./resources/placeholder.png)
+![](/resources/placeholder.png)
