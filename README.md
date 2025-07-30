@@ -1,6 +1,6 @@
 ![](/resources/coverwallpaper.png)
 
-> The perfect place for when you have no idea why the robot is being dumb
+> **The perfect place for when you have no idea why the robot is being dumb!**
 
 ## **What These Docs Are**
 - A good reference for 
