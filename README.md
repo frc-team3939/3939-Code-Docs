@@ -18,7 +18,7 @@
 ?> If you have any questions about anything in the docs or you notice something is wrong, feel free to reach out to me on **mmmspicy. on Discord** or **Snapchat/Instagram** if you know me. I'll *probably* pay attention to it!
 
 ## 🛠️ How to Run These Docs Locally
- These docs run using [ **docsify**](docsify.js.org), a very nice site generator that can generate these pages using markdown. To quote their documentation:
+ These docs run using [ **docsify**](https://docsify.js.org), a very nice site generator that can generate these pages using markdown. To quote their documentation:
 - It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
 
 ```bash
